@@ -1,0 +1,10 @@
+/web/files/
+/web/videos/
+/web/tmp/
+/files
+secret
+
+server
+client
+.vscode
+**/.DS_Store
